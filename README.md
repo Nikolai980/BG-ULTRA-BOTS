@@ -28,10 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### BOTS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nikolai980/BOTS-WEBH/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!--Start copying Custom Button code--><link rel="stylesheet" type="text/css" media="all" href="https://emarketing.activenetwork.com/res/button/css/button-v4.css" /><table><tbody><tr><td><div id="btn_div" class="btn-g203-greenbtn"><ul><li><a id="btn_lnk" href="http://www.bginstinctx.eu" target="_blank"><span id="btn_txt">ВЛИЗАМ СЕГА   </span></a></li></ul></div></td></tr><tr><td nowrap=""><div id="btn_foot">
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Discord -->Nikolai980 π Dev#0868
