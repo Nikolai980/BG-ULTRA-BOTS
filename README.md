@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BG ULTRA BOTS
 
 You can use the [editor on GitHub](https://github.com/Nikolai980/BOTS-WEBH/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
